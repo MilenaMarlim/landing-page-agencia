@@ -14,7 +14,7 @@ Clique aqui para visualizar: https://milenamarlim.github.io/landing-page-agencia
 💬 Meus maiores aprendizados nesse projeto:
 
 * Grid
-* Responsividade
+* Design Responsivo: Media Queries
 
 ## 🚀 Linguagens utilizadas:
 
